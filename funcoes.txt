@@ -1,0 +1,11 @@
+✓
+
+Processo de uso inicial do sistema:
+  1)Perguntar se vai cadastrar ou acompanhar um recurso ✓
+      -Tela de cadastro
+      -Tela inicial de acompanhamento com número de protocolo do recurso
+  2)Perguntar se é proprietário do veículo ou o condutor / infrator devidamente habilitado
+      -Sim: Continua para o próximo passo
+      -Não: Mostrar aviso que só o próprio proprietário ou condutor pode 
+  3)Formulário de recurso de multa
+  4)Feedback de envio do formulário
