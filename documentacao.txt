@@ -1,15 +1,42 @@
 Nome: Gabriel Lennon
 Turma: TSI2V
 Tema: Sistema que desburocratiza e agiliza o processo de recurso de multas
+Equipe de desenvolvimento: Gabriel Lennon (desenvolvedor, gerente de projeto, responsável pela documentação)
 
-Problema: Ao pensar em possível erro de aplicação de multa de trânsito, o condutor afetado tem o direito de 
-abrir um recurso contra essa aplicação indevida. Ao começar o processo de recurso o condutor deve:
-  1)Condutor vai até a JARI (Junta Administrativa de Infrações) e preenche o formulário de recurso
-      *Requisitos:
-          – Ser proprietário do veículo ou o condutor / infrator devidamente habilitado e identificado ou ainda seus representantes legais;
-          – O recurso deverá ser interposto no máximo até a data de vencimento para pagamento com desconto de 20%, indicada na notificação de penalidade e ou na 2ª via retirada do sistema;
-          – Após esta data, o pedido poderá ser considerado como intempestivo e poderá ser arquivado sem a análise do mérito.
+A) Tema /Problema: Ao pensar em possível erro de aplicação de multa de trânsito, o condutor afetado tem o direito de 
+abrir um recurso contra essa aplicação indevida. 
+  Fluxo de abertura de um recruso:
+    1)Condutor vai até a JARI (Junta Administrativa de Infrações) e preenche o formulário de recurso
+        *Requisitos:
+            – Ser proprietário do veículo ou o condutor / infrator devidamente habilitado e identificado ou ainda seus representantes legais;
+            – O recurso deverá ser interposto no máximo até a data de vencimento para pagamento com desconto de 20%, indicada na notificação de penalidade e ou na 2ª via retirada do sistema;
+            – Após esta data, o pedido poderá ser considerado como intempestivo e poderá ser arquivado sem a análise do mérito.
+    2)Após fazer a entrada com o devido formulário de recurso preenchido junto com as devidas provas (fotos e vídeos), vai para análise de um 
+    funcionário ou servidor do DETRAN que avaliará:
+        -Se tem algum projetos de encaminhamento de sinalização (placas, semáforos ...) e arquitetônico em aberto na Região Administrativa (RA) onde ocorreu a infração, o qual fica cadastrado na
+        base de dados do DETRAN
+        -Pesquisar qual artigo do manual do DETRAN justifique o recurso
+    
+    3)Funcionário encaminha para ...
 
+B) Justificativa
+  ->Fator motivador: 
+  ->Stakeholders: Condutores de todos os veículos residentes no Brasil
+  ->Benefícios: 
 
+C) Objetivos
+  ->Diminuir a burocracia
+  ->Agilizar processo de recurso
+  ->Economizar papel e tempo de trabalho de funcionários e economia de tempo dos condutores
 
-->stakeholders: Condutores de todos os veículos residentes no Brasils
+D) Desenvolvimento
+  Atividade chave: 
+  Recurso chave: VS Code, Python instalado e pesquisas sobre o processo de recurso de multa
+  Canais: 
+  Proposta de valor: 
+  Onde será aplicada a solução: 
+  Entrevistas: 
+  Como foram levantados os requisitos: 
+
+E) Conclusão
+    sintetizar os resultados do trabalho, de forma objetiva e concisa, e encaminhe (relacione) as soluções encontradas.
