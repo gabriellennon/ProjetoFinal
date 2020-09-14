@@ -9,3 +9,9 @@ Processo de uso inicial do sistema:
       -Não: Mostrar aviso que só o próprio proprietário ou condutor pode 
   3)Formulário de recurso de multa
   4)Feedback de envio do formulário
+
+
+
+  *O que é analisado ao receber um recurso de multa antes de encaminhar para o Juiz 
+		-verifica se tem na base de dados um projeto de arquitetura, placas e etc em  aberto na RA onde ocorreu a multa
+		-justificar com base no manual do DETRAN ou artigo que justifique o recurso
