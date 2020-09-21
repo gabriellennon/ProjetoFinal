@@ -2,7 +2,7 @@
 
 Processo de uso inicial do sistema:
   1)Perguntar se vai cadastrar ou acompanhar um recurso ✓
-      -Tela de cadastro (formulário)
+      -Tela de cadastro (formulário) ✓
       -Tela inicial de acompanhamento com número de protocolo do recurso
   2)Perguntar se é proprietário do veículo ou o condutor / infrator devidamente habilitado
       -Sim: Continua para o próximo passo
