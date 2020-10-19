@@ -1,6 +1,6 @@
-import pages.naoprop
 import pages.acompanhamento
 import pages.formulario
+
 
 def sistemainicial():
     print('*****************************')
@@ -10,8 +10,9 @@ def sistemainicial():
     opcaoservico = int(input('(1)Cadastrar recurso. (2)Acompanhar Recurso.'))
 
     if (opcaoservico == 1):
-        pages.formulario.formulario()
+        pages.formulario.formularios()
     elif(opcaoservico == 2):
         pages.acompanhamento.acompanhar()
     else:
         print('Opção inválida')
+        sistemainicial()
